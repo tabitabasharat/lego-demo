@@ -1,0 +1,28 @@
+/* .shree{
+    height: 48px !important;
+    width: 48px !important;
+}
+.btn{
+    border-radius: 40px !important;
+    width: 50px !important;
+} */
+.bun{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding-top: 48px !important; */
+    /* Width:20px !important;
+    Height:20px !important; */
+}
+.cloud{
+    width: 48px !important;
+    height: 48px !important;
+    padding: 10px 4px 10px 4px !important;
+    gap: 0px;
+}
+.step1{
+    padding-top: 71px !important;
+}
+.btnn{
+    padding-top: 23px !important;
+}
