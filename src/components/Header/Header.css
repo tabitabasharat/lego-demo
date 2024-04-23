@@ -4,6 +4,16 @@
     padding-right: 50px!important;
     
   }
-  .r1{
-    padding-top: 0px !important;
+  .certify{
+    font-size: 25px;
+    font-weight: 400;
+  }
+  .lego{
+    font-size: 10px;
+  }
+  @media (max-width:900px) {
+    .r2{
+      padding-left: 15px !important;
+      padding-right: 15px !important;
+    }
   }

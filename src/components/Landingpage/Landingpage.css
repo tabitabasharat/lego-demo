@@ -1,278 +1,1516 @@
-.logg{
-    /* padding-top:67px !important ; */
-    display: flex;
-    justify-content: end;
+.cont1 {
+  display: flex;
+  justify-content: space-between;
 }
-.cont1{
-   display: flex;
-   justify-content: space-between;
+.frt {
+  display: flex;
+  justify-content: space-around;
 }
-.frt{
-    display: flex;
-    justify-content: space-around;
+.rm {
+  position: relative;
 }
-.rm{
-    position: relative;
+.rm1 {
+  background: rgba(255, 246, 219, 1);
 }
-.rm1{
-    background: rgba(255, 246, 219, 1);
+.rm2 {
+  background: rgba(255, 255, 255, 0.2);
+}
+.bgs {
+  background: rgba(15, 109, 180, 1);
+}
+.lampl {
+  padding-left: 41px !important;
+  /* padding-top: 0px !important; */
+}
+.btm {
+  padding-bottom: 32px !important;
+}
+.cardHite {
+  padding-top: 114px !important;
+}
+.side {
+  padding-left: 120px !important;
+}
+.foot {
+  /* padding-bottom: 80px !important; */
+  gap: 120px !important;
+}
+.styl {
+  text-decoration: none;
+}
+.top1 {
+  padding-top: 50px !important;
+}
+.hite{
+  height: 235px !important;
+}
+.crdd {
+  padding-top: 80px !important;
+  padding-bottom: 50px !important;
+}
+.crdbtm {
+  padding-bottom: 55px !important;
+}
+.crd1 {
+  padding-top: 47px !important;
+}
+.topp {
+  padding-top: 71px !important;
+}
+.bloks {
+  padding-left: 20px !important;
+}
+.btm1 {
+  padding-bottom: 210px !important;
+}
+.cont {
+  width: 991px !important;
+  height: 170px !important;
+  gap: 16px !important;
+  opacity: 0px;
+}
+.bubles {
+  position: absolute;
+  top: 150px;
+  z-index: 1;
+}
+.bun {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding-top: 48px !important; */
+  /* Width:20px !important;
+    Height:20px !important; */
+}
+.hom {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  padding-right: 0px !important;
+  width: 368.53px;
+height: 520.75px;
+position: absolute;
+bottom: 0px !important;
+}
+.logg {
+  /* padding-top:67px !important ; */
+  display: flex;
+  justify-content: end;
+}
+.cont1 {
+  display: flex;
+  justify-content: space-between;
+}
+.frt {
+  display: flex;
+  justify-content: space-around;
+}
+.contnt {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  position: absolute;
+  top: 67px !important;
+}
+.info {
+  padding-left: 250px !important;
+}
+.boxx{
+  width:991px !important;
+/* height: 77px !important;; */
+padding: 24px 0px 0px 0px !important;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+border: 1px;
+border-color: solid rgba(189, 189, 189, 1);
+display: flex;
+justify-content: center;
+align-items: center;
 
 }
-.rm2{
-    background: rgba(255, 255, 255, 0.2);
+.doc1 {
+  padding: 48px !important;
+  padding-bottom: 0px !important;
+}
+.doct {
+  padding-top: 100px !important;
+}
+.doc {
+  padding: 48px !important;
+}
+.bloks {
+  padding-left: 28px !important;
+}
+.bunny {
+  width: 209.42px;
+  height: 199.72px;
+  gap: 0px;
+  z-index: 1;
+}
+.bunnycont {
+  width: 209.42px;
+  height: 199.72px;
+  gap: 0px;
+  z-index: 1;
+}
+.firstconttext{
+  font-size: 24px !important;
+  font-weight: 400 !important;
+}
+.filebox {
+  width: 879px;
+  height: 44px;
+  gap: 12px;
+}
+.selectfont{
+  /* font-family: LEGO Typewell; */
+font-size: 24px !important;
+font-weight: 700 !important;
+}
+.selectfont1{
+  font-size: 14px !important;
+  font-weight: 400 !important;
+}
+.bun {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding-top: 48px !important; */
+  /* Width:20px !important;
+    Height:20px !important; */
+}
+.connections{
+  height: 247px !important;
+  padding-bottom: 20px;
+}
+.balls {
+  width: 321.92px;
+  height: 436.63px;
+  position: absolute;
+  left: 190px;
+}
+.ball {
+  width: 178.21px;
+  height: 178.28px;
+  position: absolute;
+  right: 120px;
+  top: 750px;
+}
+.ballss {
+  width: 133.78px;
+  height: 133.78px;
+  position: absolute;
+  left: 390px;
+  top: 1000px;
+}
+.file {
+  width: 36px !important;
+  height: 35px !important;
+  /* padding: 0px 4.5px 0px 4.5px !important; */
+}
+.tam {
+  width: 296px !important;
+  height: 49px !important;
+  /* Radius:12px!important; */
+  padding: 10px, 20px, 10px, 20px !important;
+  gap: 10px !important;
+}
+.smtt {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  padding-right: 60px !important;
+}
+.bckgrud {
+  padding: 100px !important ;
+}
+.bckgrud1 {
+  padding-left: 160px !important ;
+  /* padding-right: 10px !important; */
+}
+.legoboy{
+  position:absolute;
+  bottom: 0px;
+}
+.legogirl{
+  width: 353px;
+  height: 495px;
+}
+/* .legogirl{
+  position:absolute;
+  bottom: 0px;
+} */
+.bkg {
+  padding-left: 50px !important;
+  padding-top: 50px !important;
+}
+.lampl {
+  width: 178px;
+  height: 241px;
+  left: 219px;
+  gap: 0px;
+  padding-left: 41px !important;
 
 }
-.bgs{
-    background: rgba(15, 109, 180, 1);
- 
+.boxproperty {
+  width: 991px;
+  height: 156px;
+  gap: 16px;
+  padding: 56px;
+  padding-left: 56px !important;
+  padding-right: 56px !important;
 }
-.lampl{
-    padding-left: 41px !important;
-    /* padding-top: 0px !important; */
+/* .boxx .btn{
+  display: flex;
+} */
+/* .boxx .btn:hover{
+  background-color: white;
+  color: black !important;
+} */
+.boxx .dropdown-menu.show{
+  width: 100% !important;
+  background-color: white;
+  color: black;
 }
-.contnt{
-    display: flex;
-    justify-content: center;
-    align-items:baseline;
-    position: absolute;
-    top: 67px !important;
+.boxx .dropdown-toggle{
+  /* width: 100% !important; */
+  background-color: white;
+  color: black;
 }
-.lampR{
-    padding-right: 47px !important;
-    display: flex;
-    justify-content: end;
-    align-items: start;
+.dropdown-toggle{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-.infu{
-    padding-top: 100px !important;
+/* .boxx .btn:first-child:active{
+  background-color: white;
+  color: black;
+} */
+.boxx .dropdown-toggle::after{
+  /* width: 100% !important; */
+  background-color: white;
+  color: black;
 }
-.infoo{
-    display:flex ;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding-top: 50px !important;
-    position: relative;
+.boxx .btn:hover {
+  color: white;
 }
-.btm{
-    padding-bottom: 32px !important;
+.boxx .btn{
+  /* background-color: white; */
+  color: black;
+  border: gray;
 }
-.cardHite{
-    padding-top: 114px !important;
+.pa{
+  position: absolute;
+  padding-right: 29px;
 }
-.side{
-    padding-left: 120px !important;
-}
-.foot{
-    padding-bottom: 80px !important;
-}
-.styl{
-    text-decoration: none;
-}
-.top1{
-    padding-top: 50px !important;
-}
-.crd{
-    padding-bottom: 55px !important;
-}
-.crd1{
-    padding-top: 47px !important;
-}
-.end{
-    padding-bottom: 37px !important;
-}
-.topp{
-    padding-top: 71px !important;
-}
-.bloks{
-    padding-left: 20px !important;
-}
-.btm1{
-    padding-bottom: 210px !important;
-}
-.cont{
-    width:991px !important;
-height:77px !important;
+.aboutbox{
+  width: 991px !important;
+height: 278px !important;
 gap: 16px !important;
-opacity: 0px;
+}
+.bord {
+  width: 852px !important;
+  height: 398px;
+  gap: 0px;
+  border-radius: 43px 0px 0px 0px;
+}
+.boqs {
+  width: 991px !important;
+  height: 77px !important;
+  padding: 24px 0px 0px 0px !important;
+  gap: 0px !important;
+  border-radius: 8px 0px 0px 0px !important;
+  border: 1px 0px 0px 0px !important;
+  opacity: 0px !important;
+}
+.WBER{
+font-size: 21px;
+font-weight: 400;
+}
+.text {
+  width: 991px;
+  height: 72px;
+  gap: 0px; 
+}
+.textfont {
+  font-size: 60px;
+  font-weight: 900;
+}
 
+.textfont1{
+  /* font-family: LEGO Typewell; */
+  font-size: 45px;
+  font-weight: 900;  
 }
-.bubles{
-    position: absolute;
-    top: 13793px;
-    z-index: 1;
+.stepfont {
+  font-size: 20px !important;
+  font-weight: 400;
 }
-.bun{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* padding-top: 48px !important; */
-    /* Width:20px !important;
-    Height:20px !important; */
+.reward{
+  background-color: rgba(255, 230, 186, 1);
+  color: rgba(239, 125, 46, 1);
+  width: 296px;
+  height: 49px;
+  padding: 10px 20px 10px 20px !important;
+  gap: 10px !important;
+  border-radius: 12px !important;
 }
-.hom{
-    display: flex;
-    justify-content: end;
-    align-items: center;
-    padding-right: 0px !important;
-}.logg{
-    /* padding-top:67px !important ; */
-    display: flex;
-    justify-content: end;
+.step {
+  background-color: rgba(255, 230, 186, 1);
+  color: rgba(239, 125, 46, 1);
+  width: 118px;
+  height: 44px;
+  padding: 10px 20px 10px 20px !important;
+  gap: 10px !important;
+  border-radius: 12px !important;
 }
-.cont1{
-   display: flex;
-   justify-content: space-between;
+.diff {
+  margin-bottom: 32px !important ;
 }
-.frt{
-    display: flex;
-    justify-content: space-around;
+.colordesign {
+  color: rgba(239, 125, 46, 1);
 }
-.rm{
-    position: relative;
+.upload-boxspace{
+    font-size: 18px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
 }
-.contnt{
-    display: flex;
-    justify-content: center;
-    align-items:baseline;
-    position: absolute;
-    top: 67px !important;
+.imgfont1{
+  width: 482px !important;
+  height: 323px !important;
+}
+.cloud {
+  width: 48px !important;
+  height: 48px !important;
+  padding: 10px 4px 10px 4px !important;
+  gap: 0px;
+}
+.blocks {
+  width: 285.82px !important;
+  /* height: 391.8px !important; */
 }
 .lampR{
-    padding-right: 47px !important;
+  position: absolute;
+}
+.lampRr{
+direction: rtl;
+}
+.bckdiv {
+  width: 991px !important;
+  height: 326px !important;
+  padding: 56px 0px 0px 0px !important;
+  gap: 24px !important;
+  border-radius: 10px 0px 0px 0px !important;
+  border: 1px 0px 0px 0px !important;
+  opacity: 0px;
+}
+.lable {
+  padding-top: 47px !important;
+}
+.legodesign {
+  color: rgb(122, 120, 120);
+}
+.legodesig1 {
+  color: black;
+}
+.btm3 {
+  padding-bottom: 318px !important    ;
+}
+.legobox30{
+  padding-left: 225px !important;
+    padding-right: 225px !important;
+}
+.buildramadan {
+  background: rgba(255, 255, 255, 0.2);
+  font-size: 14px !important;
+}
+.accordian {
+  /* padding-top: 40px !important; */
+  padding-bottom: 40px !important;
+}
+@media (max-width: 1479px) {
+  .hom{
+    width: 125.98px;
+height: 151.88px;
+display: flex;
+justify-content:end ;
+  }
+  .blocks{
+    width: 117.45px !important;
+height: 161px !important;
+  }
+}
+@media (max-width:533px) {
+  .conctions{
+      height: 2771px !important;
+      padding-bottom: 20px;
+  }
+}
+@media (max-width:533px) {
+  .conctions{
+      height: 2771px !important;
+      padding-bottom: 20px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .logg {
+    /* display: flex;
+        justify-content: end; */
+    width: 251.69px !important;
+    height: 168.14px !important;
+    gap: 0px !important;
+  }
+  .legogirl {
+    display: none;
+  }
+  .legoboy {
     display: flex;
-    justify-content: end;
-    align-items: start;
-}
-.infu{
-    padding-top: 120px !important;
-}
-.infoo{
-    display:flex ;
-    flex-direction: column;
     justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding-top: 50px !important;
-    position: relative;
+  }
+  .crd {
+    width: 363px !important;
+    height: 51px !important;
+    gap: 0px !important;
+  }
+  .Fbox {
+    /* width:362px !important; */
+    /* height:828px !important; */
+    top: 40px;
+    left: 16px;
+    gap: 40px !important;
+  }
+  .bton {
+    display: none;
+  }
+  .lamp {
+    width: 0% !important;
+    display: flex;
+    flex: none;
+  }
 }
-.box{
-    width:487.5px !important;
-height:77px !important;
-padding: 24px 0px 0px 0px !important;
-gap: 0px !important;
-border-radius: 8px 0px 0px 0px !important;
-border: 1px 0px 0px 0px !important;
-opacity: 0px !important;
-
+@media (min-width: 1200px) {
+  .selectorbox {
+    padding-bottom: 56px !important;
+  }
+.text13{
+  width: 1018.13px !important;
+/* height: 140px !important; */
+gap: 0px;
 }
-.doc{
-    padding: 48px !important;
+.textfont1{
+  /* font-family: LEGO Typewell; */
+font-size: 80px;
+font-weight: 900;
 }
-.bloks{
-    padding-left: 28px !important;
+  .accordian {
+    /* width:874px !important;   */
+    height: 362.66px !important;
+    gap: 12px !important;
+  }
+  .term {
+    padding: 48px;
+    padding-bottom: 42px;
+  }
 }
-.bunny{
+@media (max-width: 1500px) {
+  .balls {
+    display: none;
+  }
+  .ballss {
+    display: none;
+  }
+  .ball {
+    display: none;
+  }
+  .cup {
+    display: none;
+  }
+  .text1{
+    width: 991px;
+height: 144px;
+  }
+  .upload-boxspace{
+    font-size: 18px !important;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+}
+@media (max-width: 1117px) {
+.legogirl{
+  width: 301px;
+  height: 495px;
+}
+}
+@media (min-width: 1300px) {
+  .bubles {
+    position: absolute;
+    top: -250px;
+    z-index: 1;
+    /* display: none; */
+  }
+  .upload-boxspace{
+    font-size: 18px !important;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.legobox30{
+  padding-left: 100px !important;
+    padding-right: 100px !important;
+}
+}
+@media (max-width: 1300px) {
+  .lampR {
+    display: none;
+  }
+  .bubles {
+    position: absolute;
+    top: 150px;
+    z-index: 1;
+    display: none;
+  }
+}
+@media (max-width: 1200px) {
+  .conction {
+    width: 100%;
+  }
+  .step1 {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .filebox {
+    width: 991px !important;
+    height: 156px !important;
+    padding: 56px 0px 0px 0px !important;
+    gap: 16px !important;
+    border-radius: 10px 0px 0px 0px !important;
+    border: 1px 0px 0px 0px !important;
+    opacity: 0px;
+  }
+  .fonttxtstyl {
+    width: 60%;
+  }
+  .bunny2 {
+    display: none;
     width: 209.42px;
-height: 199.72px;
-gap: 0px;
-opacity: 0px;
+    height: 199.72px;
+    gap: 0px;
+  }
+  .bunny1 {
+    width: 35%;
+  }
+  .text13{
+    /* width: 1018.13px !important; */
+  /* height: 84px !important; */
+  gap: 0px;
+  }
+  .textfont1{
+    /* font-family: LEGO Typewell; */
+  font-size: 80px;
+  font-weight: 900;
+  }
+  .legobox30{
+    padding-left: 100px !important;
+      padding-right: 100px !important;
+  }
+  .term {
+    padding: 48px;
+    padding-bottom: 42px;
+  }
+  .bunnybox {
+    /* width: 701.88px !important; */
+    height: 199.72px !important;
+    gap: 36.81px !important;
+  }
+  .selectorbox {
+    padding-bottom: 56px !important;
+  }
+  .accordian {
+    /* width:874px !important; */
+    height: 362.66px !important;
+    gap: 12px !important;
+  }
+  .blook {
+    display: none;
+  }
+}
+@media (max-width: 1106) {
+  .foot {
+    flex-direction: row;
+  }
+  .textfont1{
+    /* font-family: LEGO Typewell; */
+    font-size: 45px;
+    font-weight: 900;  
+  }
+  .conction {
+    width: 100%;
+  }
+  .bunnybox {
+    /* width: 363px !important; */
+    height: 159.11px !important;
+    gap: 29.33px !important;
+  }
+  .drpdown{
+    padding-left: 50px !important;
+    width: 100%;
+    font-size: 12px !important;
+  }
+}
+@media (max-width: 1079) {
+  .WBER{
+    font-size: 14px !important;
+    font-weight: 400;
+  }
+}
+@media (max-width: 1038) {
+  .textt {
+    width: 80%;
+  }
 
 }
-.bun{
+@media (max-width: 992px) {
+  .step1 {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .textt {
+    width: 100%;
+  }
+  .textfont1{
+    /* font-family: LEGO Typewell; */
+    font-size: 45px;
+    font-weight: 900;  
+    padding-bottom: 32px !important;
+  }
+  .lampl {
+    display: none;
+    position: absolute;
+    top: 150px;
+  }
+  .lampRr {
+    display: none;
+    position: absolute;
+    top: 150px;
+  }
+  .lampR {
+    display: none;
+  }
+  .legobox30{
+    padding-left: 50px !important;
+      padding-right: 50px !important;
+  }
+  .conction {
+    width: 100%;
+  }
+  .text12{
+    width: 1018.13px !important;
+height: 168px !important;
+gap: 0px;
+  }
+  .textt {
+    width: 60%;
+  }
+  .bubles {
+    display: none;
+  }
+  .lamp {
+    display: none;
+  }
+  .foot {
+    gap: 2px !important;
+    flex-wrap: nowrap;
+  }
+  .boxfixing1 {
+    width:100% !important;
+    height: 1,222px !important;
+    gap: 24px !important;
+    padding-left: 25px !important;
+  }
+  .accordian {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* padding-top: 48px !important; */
-    /* Width:20px !important;
-    Height:20px !important; */
+    width: 874px !important;
+    height: 362.66px !important;
+    gap: 12px !important;
+  }
+  .info {
+    padding-left: 131px !important;
+  }
+  /* .btm{
+    padding-bottom: 0px !important;
+  } */
+  .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .bunny2 {
+    display: none;
+  }
+  .legogirl{
+    display: none;
+  }
+  .bunnybox {
+    /* width: 363px !important; */
+    height: 159.11px !important;
+    gap: 29.33px !important;
+  }
+  .cardlego {
+    display: flex;
+    justify-content: center;
+    width: 100% !important;
+    height: 1, 254px !important;
+    gap: 24px !important;
+  }
+  .text {
+    width: 662px;
+    height: 90px;
+    gap: 0px;
+  }
+  .text1 {
+    width: 100%;
+    height: 144px;
+    gap: 0px;
+  }
+  .textfont {
+    font-size: 45px;
+    font-weight: 600;
+  }
+  .text12{
+    width: 1018.13px !important;
+height: 168px !important;
+gap: 0px;
+  }
+  .textfont1 {
+    font-size: 45px;
+    font-weight: 600;
+  }
+  .textfontstyle{
+    /* font-family: LEGO Typewell; */
+font-size: 24px;
+font-weight: 400;
+  }
 }
-.hom{
+
+@media (max-width: 866px) {
+  .step1 {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  .file {
+    width: 36px;
+    height: 35px;
+  }
+  .blocks {
+    width: 117.45px !important;
+    height: 161px !important;
+    top: 691px !important;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 0px !important;
+    z-index: 0;
+  }
+  .cardlego {
+    display: flex;
+    justify-content: center;
+    width: 362px !important;
+    height: 1, 254px !important;
+    gap: 24px !important;
+  }
+  .info {
+    padding-left: 100px !important;
+    width: 80%;
+  }
+  .bunny {
+    display: none;
+  }
+  /* .hom {
+    width: 125.98px !important;
+    height: 151.88px !important;
+    z-index: 0;
+    padding-left: 0px !important;
+    position: absolute;
+  } */
+  .legogirl {
+    display: none;
+  }
+  .legoboy {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    z-index: 1;
+  }
+  .cardlego {
+    display: flex;
+    justify-content: center;
+    width: 100% !important;
+    height: 1, 254px !important;
+    gap: 14px !important;
+  }
+  .mobiletest {
+    width: 80%;
+  }
+  .upload-boxspace {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+@media (max-width: 807px) {
+  .legoboy{
     display: flex;
     justify-content: end;
-    align-items: center;
-    padding-right: 0px !important;
+  }
 }
-.file{
-    width:991px !important;
-height: 156px !important;
-padding: 56px 0px 0px 0px !important;
-gap: 24px !important;
-border-radius: 10px 0px 0px 0px !important;
-border: 1px 0px 0px 0px !important;
-opacity: 0px;
-
-}
-.tam{ 
-    Width: 296px !important;   
-Height: 49px !important;
-/* Radius:12px!important; */
-Padding:10px, 20px, 10px, 20px!important;
-Gap:10px!important;
-}
-.smt{
-    display: flex;
-    justify-content: center;
-    align-items: end;
-}
-.smtt{
-    display: flex;
-    justify-content: center;
-    align-items: end;
-    padding-right: 60px !important;
-}
-.bckgrud{
-    padding: 100px !important ;
-}
-.bckgrud1{
-    padding-left: 160px !important ;
-    /* padding-right: 10px !important; */
-}
-.lampl{
-    width: 178px;
-height: 241px;
-left: 219px;
+@media (max-width: 768px) {
+  .temtext {
+    width: 100%;
+  }
+  .bloks {
+    display: none;
+  }
+  .boxproperty {
+    width: 991px;
+    height: 156px;
+    padding: 56px !important;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+  .card12{
+    width: 362px;
+height: 533px;
 gap: 0px;
-padding-left: 41px !important;
-}
-.bord{
-    width: 852px !important;
-height: 398px;
+  }
+  .legoboy{
+    width: 194.35px;
+height: 296.07px;
 gap: 0px;
-border-radius: 43px 0px 0px 0px;
-}
-.boqs{
-    width:991px !important;
-height:77px !important;
-padding: 24px 0px 0px 0px !important;
-gap: 0px !important;
-border-radius: 8px 0px 0px 0px !important;
-border: 1px 0px 0px 0px !important;
-opacity: 0px !important;
-
-}
-.diff{
-    margin-bottom:32px !important ;
-}
-.cloud{
-    width: 48px !important;
-    height: 48px !important;
-    padding: 10px 4px 10px 4px !important;
+margin-right: 60px !important;
+  }
+  .bunnybox {
+    width: 161.42px !important;
+    height: 228.72px !important;
+    /* width: 363px !important;
+    height: 159.11px !important; */
+    gap: 29.33px !important;
+  }
+  .legobox30{
+    padding-left: 50px !important;
+      padding-right: 50px !important;
+  }
+  .doc {
+    width: 237px !important;
+    height: 60px !important;
+    padding: 10px 20px 10px 20px !important;
+    gap: 10.66px !important;
+    border-radius: 8px 0px 0px 0px !important;
+    border: 1px 0px 0px 0px !important;
+  }
+  .info {
+    padding-left: 90px !important;
+  }
+  .smcrd {
+    width: 363px !important;
+    height: 308px;
     gap: 0px;
+    border-radius: 43px 0px 0px 0px;
+  }
+  .mobiletest {
+    width: 80%;
+  }
+  .textfontstyle1{
+    /* font-family: LEGO Typewell; */
+font-size: 16px;
+font-weight: 400;
+  }
+  .file {
+    width: 10px;
+    width: 36px !important;
+    height: 36px !important;
+    padding: 0px 4.5px 0px 4.5px !important;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .legoboy {
+    z-index: -1;
+  }
+  .crd {
+    z-index: 0;
+  }
+  .side {
+    padding-left: 15px !important;
+  }
+  .foot {
+    gap: 24px !important;
+  }
+  .bttn {
+    display: none;
+  }
+  .conction {
+    width: 100%;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .conctions {
+    width: 100%;
+  }
+  .bunny1 {
+    width: 35%;
+  }
+  .bunnycont {
+    width: 209.42px;
+    height: 199.72px;
+    gap: 0px;
+    z-index: 1;
+    padding-bottom: 80px !important;
+    padding-top: 20px !important;
+  }
+  .step1 {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  .outerbox {
+    width: 362px !important;
+    height: 156px !important;
+    gap: 16px !important;
+  }
+  .tagstp {
+    /* padding-bottom: 0px !important; */
+    width: 60%;
+  }
+
+  .WBER{
+    /* font-family: LEGO Typewell; */
+font-size: 20px !important;
+font-weight: 400;
+  }
+  .p1 br {
+    display: none;
+  }
+  .blook {
+    display: none;
+  }
+  .accordian {
+    width: 874px !important;
+    height: 362.66px !important;
+    gap: 12px !important;
+    padding-right: 40px !important;
+    padding-left: 40px !important;
+  }
+  .crd {
+    width: 100% !important;
+    height: 533px !important;
+    gap: 0px !important;
+  }
+  .mobilesec {
+    width: 35%;
+  }
+  .mobilesec {
+    width: 30%;
+  }
 }
-.bckdiv{
-    width:991px !important;
-height: 326px !important;
-padding: 56px 0px 0px 0px !important;
-gap: 24px !important;
-border-radius: 10px 0px 0px 0px !important;
-border: 1px 0px 0px 0px !important;
-opacity: 0px;
+@media (max-width: 660px)  {
+  .text {
+    width: 100%;
+    height: 90px;
+    gap: 0px;
+  }
+  .text1 {
+    width: 100%;
+    height: 90px;
+    gap: 0px;
+  }
+  .textfont {
+    font-size: 45px;
+    font-weight: 900;
+
+  }
+  .boxx{
+    width:100% !important;
+  /* height: 77px !important;; */
+  padding: 24px 0px 0px 0px !important;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+ font-size: 12px;
+  
+  }
+  .storytimefont{
+    width: 100% !important;
+  height: 144px !important;
+  }
+  .logo {
+    width: 251.69px !important;
+    height: 168.14px !important;
+  }
+  .firstconttext{
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    padding-top: 20px !important;
+  }
+  .legobox30{
+    padding-left: 50px !important;
+      padding-right: 50px !important;
+  }
 }
-.lable{
-    padding-top: 47px !important;
+@media (max-width: 597px) {
+  .reward{
+    background-color: rgba(255, 230, 186, 1);
+    color: rgba(239, 125, 46, 1);
+    width: 189px;
+    height: 37px;
+    padding: 10px 20px 10px 20px !important;
+    gap: 10px !important;
+    border-radius: 12px !important;
+    font-size: 14px !important;
+  }
 }
-.btm3{
-    padding-bottom: 318px !important    ;
+@media (max-width: 576px) {
+  .side {
+    padding-left: 15px !important;
+  }
+  .fntstyle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+  }
+ /* .WBER{
+  font-size: 14px !important;
+  font-weight: 400;
+ } */
+  .fontbox {
+    width: 362px !important;
+    padding: 24px 12px 24px 12px !important;
+    gap: 24px !important;
+    border-radius: 10px 0px 0px 0px !important;
+    border: 1px 0px 0px 0px !important;
+  }
+  .upload-boxspace {
+    font-size: 14px !important;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .legobox30{
+    padding-left: 50px !important;
+      padding-right: 50px !important;
+  }
+  .selectorbox {
+    padding-bottom: 56px !important;
+  }
+  .foot {
+    gap: 24px !important;
+    flex-direction: column;
+  }
+  .filebox {
+    width: 362px !important;
+    height: 156px !important;
+    padding: 56px 12px 56px 12px !important;
+    gap: 24px !;
+    border-radius: 10px 0px 0px 0px !important;
+    border: 1px 0px 0px 0px !important;
+  }
+  .mobiletest {
+    width: 100%;
+  }
+  .conction {
+    width: 100%;
+  }
+  .upload-boxspace {
+    padding-left: 12px;
+    padding-right: 1px;
+  }
+  .conctions {
+    width: 100%;
+  }
+  .gb {
+    display: none;
+  }
+  .box11 {
+    flex-direction: column;
+  }
+  .ppl {
+    width: 100%;
+  }
+  .blook {
+    display: none;
+  }
+  .bubles {
+    display: none;
+  }
+  .step1 {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .legodesign {
+    color: black;
+  }
+  .info {
+    padding-left: 00px !important;
+    width: 50%;
+  }
+  .legodesig1 {
+    color: rgb(122, 120, 120);
+  }
+  .imgfont1{
+    width: 420.5px !important;
+    height: 295.39px !important;
+gap: 0px;
+  }
+  .accordian {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    width: 363px !important;
+    height: 448.66px !important;
+    gap: 16px !important;
+  }
+  .BY {
+    display: flex;
+    flex-direction: column;
+  }
+  .BY1 {
+    padding: 20px !important;
+  }
+  .strt {
+    width: 237px !important;
+    height: 60px !important;
+    padding: 10px 20px 10px 20px !important;
+    gap: 10.66px !important;
+    border-radius: 8px 0px 0px 0px !important;
+    border: 1px 0px 0px 0px !important;
+  }
+  .p1 br {
+    display: none;
+  }
+  .doct {
+    padding-top: 40px !important;
+    /* padding-bottom: 0px !important; */
+  }
+  .text {
+    /* width: 362px; */
+    height: 150px;
+    gap: 0px; 
+  }
+
+  .text1 {
+    width: 100%;
+    height: 200px;
+    gap: 0px; 
+  }
+  .textfont {
+    font-size: 12px;
+    font-weight: 900;
+  }
+  .term {
+    padding-left: 20px;
+  }
+  .crd {
+    width: 100% !important;
+    height: 533px !important;
+    gap: 0px !important;
+  }
+  .text {
+    width: 100%;
+    height: 90px;
+    gap: 0px;
+  }
+  .text1 {
+    width: 100%;
+    height: 90px;
+    gap: 0px;
+  }
+  .textfont {
+    font-size: 45px;
+    font-weight: 900;
+
+  }
+  .uploadfont{
+    height: 150px !important;
+  }
+  /* .btm{
+    padding-bottom: 0px !important;
+  } */
+  .bunnycont {
+    width: 209.42px;
+    height: 199.72px;
+    gap: 0px;
+    z-index: 1;
+    padding-bottom: 80px !important;
+    padding-top: 20px !important;
+  }
 }
+@media (max-width: 390px){
+  .uploadfont{
+    height: 555px !important;
+  }
+}
+@media (max-width: 390px) {
+  .boxproperty {
+    width: 9001px !important;
+    height: 156px !important;
+    font-size: 10px !important;
+    gap: 16px;
+    padding: 0px !important;
+  }
+  .upload-boxspace {
+    font-size: 10px !important;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .text {
+    width: 362px !important;
+    height: 90px !important;
+    gap: 0px; 
+  }
+  .text1 {
+    width: 100% !important;
+    height: 200px !important;
+    gap: 0px; 
+  }
+  .textfont {
+    font-size: 45px;
+    font-weight: 900;
+  }
+  .padx1{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .imgfont1{
+    width: 283.5px !important;
+height: 189.39px !important;
+gap: 0px;
+  }
+  .WBER{
+    /* font-family: LEGO Typewell; */
+font-size: 14px !important;
+font-weight: 400;
+  }
+
+}
+@media (max-width: 485px) {
+  .text {
+    /* width: 362px; */
+    height: 150px;
+    gap: 0px; 
+  }
+  .btm{
+    padding-bottom: 32px !important;
+  }
+  .text1 {
+    width: 100%;
+    height: 200px;
+    gap: 0px; 
+  }
+
+  .text12{
+    width: 363px !important;
+height: 205px !important;
+gap: 0px;
+  }
+  .bunnybox2{
+    position: absolute;
+    left: 70px !important;
+    top: -15px !important;
+  }
+  .gotQA{
+    height: 250px !important;
+  }
+  .share{
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+  }
+}
+@media (max-width: 499px) {
+  .hite{
+    height: 279px !important;
+  }
+  .legobox30{
+    padding-left: 50px !important;
+      padding-right: 50px !important;
+  }
+}
+@media (max-width: 549px) {
+  .bunnybox2{
+    position: absolute;
+    left: 70px !important;
+    top: -15px !important;
+  }
+  .legobox30{
+    padding-left: 50px !important;
+      padding-right: 50px !important;
+  }
+}
+@media (max-width: 460px) {
+  .mobilesec {
+    width: 40%;
+  }
+  .storytimefont{
+    width: 100% !important;
+  height: 200px !important;
+  }
+  .mobiletest {
+    width: 100%;
+  }
+  .stepfont {
+    font-size: 14px !important;
+    font-weight: 400;
+  }
+  .share{
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+  }
+  .step {
+    width: 95px !important;
+    height: 37px !important;
+    padding: 10px 20px 10px 20px !important;
+    gap: 10px !important;
+    border-radius: 12px !important;
+  }
+  .reward{
+    background-color: rgba(255, 230, 186, 1);
+    color: rgba(239, 125, 46, 1);
+    width: 189px;
+    height: 37px;
+    padding: 10px 20px 10px 20px !important;
+    gap: 10px !important;
+    border-radius: 12px !important;
+  }
+  .upload-boxspace {
+    padding-left: 8px;
+    padding-right: 1px;
+  }
+  .imgfont1{
+    width: 384.5px !important;
+    height: 295.39px !important;
+  } 
+  .WBER{
+    font-size: 14px !important;
+    font-weight: 400;
+   } 
+  .file {
+    width: 25px !important;
+    height: 20px !important;
+  }
+  .boxproperty {
+    width: 9001px !important;
+    height: 156px !important;
+    font-size: 12px !important;
+    gap: 16px;
+    padding: 0px !important;
+    /* padding: 56px; */
+    /* padding-left: 8px !important; */
+  }
+  .upload-boxspace {
+    font-size: 12px !important;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .legobox30{
+    padding-left: 20px !important;
+      padding-right: 20px !important;
+  }
+  .text {
+    /* width: 362px; */
+    height: 150px;
+    gap: 0px; 
+  }
+  .text1 {
+    width: 100%;
+    height: 200px;
+    gap: 0px; 
+  }
+  .text12{
+    width: 363px !important;
+height: 224px !important;
+gap: 0px;
+  }
+  .imgfont1{
+    width: 300.5px !important;
+height: 289.39px !important;
+gap: 0px;
+  }
+  .legoboy{
+    width: 194.35px;
+height: 296.07px;
+gap: 0px;
+margin-right: 40px !important
+;
+ }
+  .textfont {
+    font-size: 45px;
+    font-weight: 900;
+  }
+  .textfont1{
+    /* font-family: LEGO Typewell; */
+  font-size: 45px;
+  font-weight: 900;
+  }
+  /* .btm{
+    padding-bottom: 0px !important;
+  } */
+  .crd{
+    width: 362px;
+height: 533px;
+gap: 0px;
+  }
+  .bunnybox2{
+    position: absolute;
+    left: 70px !important;
+    top: -15px !important;
+  }
+}
+@media (max-width:390px) {
+  .uploadfont{
+    height: 150px !important;
+  }
+}
+@media (max-width:360px) {
+  .text {
+    width: 362px !important;
+    height: 150px !important;
+    gap: 0px; 
+  }
+  .text1 {
+    width: 100% !important;
+    height: 200px !important;
+    gap: 0px; 
+  }
+  .textfont {
+    font-size: 45px;
+    font-weight: 900;
+  }
+  .upload-boxspace {
+    font-size: 8px !important;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .imgfont1{
+    width: 283.5px !important;
+height: 189.39px !important;
+gap: 0px;
+  }
+  .btm{
+    padding-bottom: 0px !important;
+  }
+.bunnybox2{
+  position: absolute;
+  left: 60px !important;
+  top: -15px !important;
+}
+.hite{
+  height: 279px !important;
+}
+.legobox30{
+  padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+.share{
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+  padding-bottom: 40px !important;
+}
+}
+

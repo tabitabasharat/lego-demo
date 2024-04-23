@@ -12,6 +12,7 @@ import Aboutyourself from './components/Aboutyourself/Aboutyourself';
 import Storytime from './components/Storytime/Storytime';
 import TermNconditions from './components/Connections/TermsNconditions/TermNconditions';
 
+
 function App (){
     return (
       < div>
@@ -19,13 +20,12 @@ function App (){
       <DesignUpload/>
       <DesignUpload1/>
        <DesignUpload2/>
-       {/* <PopUp/> */}
-      <WithWhom/>
+       <WithWhom/>
       <Storytime/>
-      <TermNconditions/>
+      <TermNconditions/> 
       <Aboutyourself/>
-      <Connections/>
-      <Sharing/> 
+      <Connections/>   
+      <Sharing/>
       </div>
     );
 }
